@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/cc.svg
 nav_title: "Captions/Subtitles"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-11-29  # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2022-07-14  # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Helps you understand and create captions (also called â€œsubtitlesâ
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 29 November 2021. First published September 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 14 July 2022. First published September 2019. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -81,7 +81,7 @@ Captions are needed for accessibility, whereas subtitles in other languages are 
 
 ### Live Captions
 
-Live captions are usually done by professional real-time captioners (also called Communication Access Realtime Translation (CART) providers). Live captions can be done in-person or remotely. That is, the person doing the captioning/CART does not have to be at the same location as the live action; they can be doing the live captions by listening to the audio over a phone or Internet connection.
+Live captions are usually done by professional real-time captioners or Communication Access Realtime Translation (CART) providers. Live captions can be done in-person or remotely. That is, the person doing the captioning/CART does not have to be at the same location as the live action; they can be doing the live captions by listening to the audio over a phone or Internet connection.
 
 If you have live captions and you post a recording, you will probably need to do minor editing for accuracy.
 
@@ -174,7 +174,7 @@ Does the video have audio information that is needed to understand what the vide
 * [A 1.2.2 Captions](https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded.html) (Prerecorded): Captions are provided for all prerecorded audio content in synchronized media...
 * [AA 1.2.4 Captions](https://www.w3.org/WAI/WCAG21/Understanding/captions-live.html) (Live): Captions are provided for all live audio content in synchronized media. 
 
-## Skills and Tools
+## Skills and Tools {#skills-and-tools}
 
 Creating captions requires typing up the audio ("transcribing") and formatting it in a file with timestamps. Transcribing an audio file is fairly difficult and takes quite a bit of time for people who don't have the software and skill for it. The file format for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files.
 
@@ -186,7 +186,7 @@ However, people who have the software, skills, and experience in developing capt
 
 For these reasons, many organizations choose to outsource their captions.
 
-## Automatic Captions are Not Sufficient
+## Automatic Captions are Not Sufficient {#automatic-captions-are-not-sufficient}
 
 Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate. Usually they need significant editing. 
 
@@ -252,7 +252,7 @@ Most caption-editing tools can export a plain text transcript.
 
 ### Transcribing Audio to Text
 
-For specific guidance on what to type up, see another page in this resource: [Transcribing Audio to Text](/WAI/media/av/transcribing/).
+For specific guidance on what to type up, see another page in this resource: [[Transcribing Audio to Text]](/media/av/transcribing/).
 
 ## Positioning and Styling Captions
 
